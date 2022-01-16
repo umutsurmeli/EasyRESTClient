@@ -31,7 +31,7 @@ namespace EasyRESTClient
         {
             try
             {
-                Process.Start("explorer", "https://github.com/umutsurmeli/easyrestclient");
+                Process.Start("explorer", "https://github.com/umutsurmeli/EasyRESTClient");
             }
             catch(Exception ex)
             {
